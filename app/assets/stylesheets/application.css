@@ -13,3 +13,20 @@
  *= require_tree .
  *= require_self
  */
+
+ h1 {
+  color:black;
+ }
+
+ p {
+  font-style:italic;
+ }
+
+ .card-answer {
+  padding: 10px;
+  border-radius: 5px;
+  margin: 5px;
+  background-color:#FEFEBF;
+
+
+ }
